@@ -1,5 +1,5 @@
 *                       { margin: 0; padding: 0; }
-@font-face              { font-family: Daxline; src: url(fonts/DaxlinePro-Thin.otf); }
+@font-face              { font-family: Daxline; src: url(fonts/DaxlinePro-Thin.otf), url(fonts/DaxlinePro-Thin.eot); }
 body                    { background: url(images/back_layout_01.jpg) no-repeat fixed center top; font-family: Daxline;
                         color: #FFFFFF;}
 a                       { text-decoration: none; }
