@@ -1,8 +1,8 @@
 *                       { margin: 0; padding: 0; }
 @font-face              { font-family: Daxline; src: url(fonts/DaxlinePro-Thin.eot); } /* for ie */
 @font-face              { font-family: Daxline; src: url(fonts/DaxlinePro-Thin.otf), url(fonts/DaxlinePro-Thin.svg); }
-body                    { background: url(images/back_layout_01.jpg) 100% auto no-repeat fixed center top; font-family: Daxline;
-                          color: #FFFFFF;}
+body                    { background: url(images/back_layout_01.jpg) no-repeat fixed center top; font-family: Daxline;
+                          color: #FFFFFF; background-size: 100% auto; }
 a                       { text-decoration: none; }
 
 #header                 { margin: 0 auto; width: 910px; padding: 10px 0 25px 30px; }
