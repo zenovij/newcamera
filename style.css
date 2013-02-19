@@ -4,6 +4,7 @@
 body                    { background: url(images/back_layout_01.jpg) no-repeat fixed center top; font-family: Daxline;
                           color: #FFFFFF; background-size: 100% auto; }
 a                       { text-decoration: none; }
+img                     { border: 0; }
 
 #header                 { margin: 0 auto; width: 910px; padding: 10px 0 25px 30px; }
 #header #title p        { font-size: 70px; margin-bottom: -40px; }
