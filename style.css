@@ -34,8 +34,8 @@ img                     { border: 0; }
 #main_video img 	    {height: 309px; width: 550px; z-index:1; box-shadow: 0 0 10px 5px #456F6D;}
 #main_video a:hover > .play         {visibility:visible;}
 #main #social_networks              { text-align: right; clear: both; margin-bottom: -40px; }
-#main #social_networks img          { padding-right: 10px; }
-#main #social_networks img:hover    { opacity: 0.65; filter: alpha(opacity=65); } /* filter for ie */
+#main #social_networks img          { padding-right: 10px; filter: alpha(opacity=65);} /* filter for ie */
+#main #social_networks img:hover    { opacity: 0.65; filter: progid:DXImageTransform.Microsoft.alpha(opacity=20); } /* filter for ie */
 
 #videos                 { clear: both; padding: 0 5px; }
 #videos .works          { float: left; width: 450px; height: 253px; position: relative; }
