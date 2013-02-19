@@ -12,7 +12,7 @@ img                     { border: 0; }
                           padding: 0 40px 0 0;}
 #header #we p           { margin-bottom: -10px; }
 
-#wrapper                { margin: 0 auto; width: 910px; background: url(images/white_fon.png) repeat scroll 0 0 transparent; }
+#wrapper                { margin: 0 auto; width: 910px; background: url(images/textured_layer.tif) repeat scroll 0 0 transparent; }
 #menu                   { border-top: 10px solid #456F6D; background-color: #CACACA; clear: both; }
 #menu ul                { padding: 10px 0; }
 #menu li                { list-style: none; display: inline; font-size: 30px; margin: 0 -5px 0 2px; padding: 8px 70px;
